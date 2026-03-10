@@ -374,7 +374,7 @@ main {
 }
 
 .contact-info-card {
-    background: var(--primary-color);
+    background:rgb(14,21,14);
     color: var(--white);
     padding: 3rem;
     border-radius: 12px;
@@ -492,4 +492,5 @@ footer {
     }
     
     .service-img img { height: 500px; }
+
 }
